@@ -11,7 +11,7 @@ variable "env_name" {
 }
 variable "region" {
   description = "The region to host the cluster in"
-  default     = "asia-south1"
+  default     = "europe-west1"
 }
 variable "network" {
   description = "The VPC network created to host the cluster in"

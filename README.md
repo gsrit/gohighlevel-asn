@@ -14,7 +14,7 @@ Task:
 **___________________________________________________________________________________________________________________________________________**
 
 
-Detailed Information.
+<u>**Detailed Information**.<\u>
 
 - **Provision a highly available kubernetes cluster on Google Cloud or AWS or any other cloud.**
 

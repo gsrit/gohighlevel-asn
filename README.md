@@ -2,12 +2,16 @@
 # DevOps Assignment (K8, Terraform,Wordpress)
 
 
+
 Task:
 - Provision a highly available kubernetes cluster on Google Cloud or AWS or any other cloud. 
 - Create a simple wordpress site and  deploy it on the kubernetes cluster.
 - Create a mechanism so that webservice pod scales down to zero if there is no traffic on the page and automatically scales up if there is traffic (ignore the initial delay from 0 to 1 pod)
 - Configure the deployment to have FTP access.
 - :heavy_check_mark: Provision the above infrastructure using terraform ( Deployment of pods through terraform is not required )
+
+
+**___________________________________________________________________________________________________________________________________________**
 
 
 Detailed Information.

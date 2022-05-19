@@ -44,7 +44,7 @@ define('WP_DEBUG', false);
 
 define('FTP_USER', 'gaurav');
 define('FTP_PASS', '*******');
-define('FTP_HOST', 'itlabs.space:21');
+define('FTP_HOST', 'gauravrtr.in:21');
 define('FTP_SSL', false);
 ```
 

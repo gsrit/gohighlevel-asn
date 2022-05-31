@@ -63,4 +63,3 @@ spec:
           service.name: wordpress
           service.port.number: 80
 
-#Kubernetes manifest for wordpress

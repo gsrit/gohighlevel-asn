@@ -56,7 +56,7 @@ metadata:
   name: wordpress
 spec:
   rules:
-  - host: marcolenzo.eu
+  - host: mywordpressapptest.lab
     http:
       paths:
       - backend:
